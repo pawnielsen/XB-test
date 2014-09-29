@@ -6,6 +6,8 @@ public class scanner {
 
 		System.out.println("test");
 
+		// I SUX ALLE SAMMEN
+
 	}
 
 }
