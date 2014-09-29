@@ -1,6 +1,5 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=FETCH_HEAD
 eclipse.preferences.version=1
-<<<<<<< HEAD
-org.eclipse.rse.preferences.order.connections=Carstens-MacBook-Pro.Local
-=======
-org.eclipse.rse.preferences.order.connections=jonathans-mbp.Local
->>>>>>> FETCH_HEAD
+org.eclipse.rse.preferences.order.connections=Carstens-MacBook-Pro.Local;jonathans-mbp.Local

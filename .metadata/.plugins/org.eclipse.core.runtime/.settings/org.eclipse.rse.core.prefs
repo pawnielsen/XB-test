@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-activeuserprofiles=Carstens-MacBook-Pro;Team
-eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=carstensvaneborg
-useridperkey=Carstens-MacBook-Pro.Local\=carstensvaneborg;
-=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=FETCH_HEAD
+activeuserprofiles=Carstens-MacBook-Pro;Team;jonathans-mbp
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Jonathan
-<<<<<<< HEAD
->>>>>>> FETCH_HEAD
-=======
-useridperkey=jonathans-mbp.Local\=Jonathan;
->>>>>>> FETCH_HEAD
+useridperkey=Carstens-MacBook-Pro.Local\=Jonathan;jonathans-mbp.Local\=Jonathan;
