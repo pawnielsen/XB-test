@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 activeuserprofiles=Carstens-MacBook-Pro;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=carstensvaneborg
 useridperkey=Carstens-MacBook-Pro.Local\=carstensvaneborg;
+=======
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=Jonathan
+>>>>>>> FETCH_HEAD
