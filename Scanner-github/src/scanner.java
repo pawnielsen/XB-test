@@ -8,6 +8,9 @@ public class scanner {
 
 		// I SUX ALLE SAMMEN
 
+
+		// NU SUX GITHUB OGSÅ
+
 	}
 
 }
