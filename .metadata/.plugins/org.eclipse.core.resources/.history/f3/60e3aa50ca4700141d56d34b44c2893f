@@ -1,0 +1,6 @@
+
+public class scanner {
+	public static void main(strings args){
+		System.out.println("test");
+	}
+}
