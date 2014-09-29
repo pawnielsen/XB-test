@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.126+/Users/Jonathan/Documents/Test github/XB-test/.metadata/.plugins/org.eclipse.jdt.core
 4238209716.index
 718586396.index
@@ -21,3 +22,7 @@ INDEX VERSION 1.126+/Users/Jonathan/Documents/Test github/XB-test/.metadata/.plu
 84777399.index
 4249315662.index
 450555687.index
+=======
+INDEX VERSION 1.126+/Users/PawNielsen/Desktop/XB-test/.metadata/.plugins/org.eclipse.jdt.core
+434311096.index
+>>>>>>> FETCH_HEAD
