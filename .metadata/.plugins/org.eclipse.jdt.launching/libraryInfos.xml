@@ -22,6 +22,7 @@
 </endorsedDirs>
 </libraryInfo>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home" version="1.8.0_11">
 <bootpath>
 <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/jre/lib/resources.jar"/>
@@ -112,5 +113,7 @@
 </endorsedDirs>
 </libraryInfo>
 >>>>>>> FETCH_HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 </libraryInfos>

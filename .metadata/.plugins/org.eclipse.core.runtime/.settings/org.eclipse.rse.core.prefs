@@ -6,4 +6,8 @@ useridperkey=Carstens-MacBook-Pro.Local\=carstensvaneborg;
 =======
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Jonathan
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+useridperkey=jonathans-mbp.Local\=Jonathan;
 >>>>>>> FETCH_HEAD
